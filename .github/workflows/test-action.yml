@@ -16,7 +16,7 @@ jobs:
       - run: ./tests/tests
 
       - name: Coveralls
-        run: coveralls -t ${{ secrets.coveralls_token }} --root . -E ".*external.*" -E ".*tests.*"
+        run: coveralls -t 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 --root . -E ".*external.*" -E ".*tests.*"
 
 
   sonarcloud-check:
