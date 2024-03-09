@@ -1,3 +1,3 @@
 Varshutin Egor
 
-![example workflow](https://github.com/.github/workflows/test-action.yml/badge.svg)
+[![CI/CD GitHub Actions](https://github.com/EgorVarshutin22107/funny-boar/actions/workflows/test-action.yml/badge.svg)](https://github.com/EgorVarshutin22107/funny-boar/actions/workflows/test-action.yml)
