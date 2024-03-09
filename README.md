@@ -1,3 +1,3 @@
 Varshutin Egor
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/.github/workflows/test-action.yml/badge.svg)
